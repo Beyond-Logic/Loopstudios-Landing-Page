@@ -1,0 +1,41 @@
+.hero-bg {
+  background: url(../images/image-hero.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 620px;
+}
+
+.navbar-brand {
+  font-size: 35px !important;
+  text-transform: lowercase;
+  color: #fff !important;
+}
+
+.navbar-bg {
+  width: 90%;
+  margin: auto;
+  padding-top: 50px !important;
+  color: #fff;
+}
+
+.nav-item {
+  padding-right: 14px;
+}
+
+.nav-link {
+  color: #fff !important;
+}
+
+.hero-standout h1 {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 72px;
+  text-transform: uppercase;
+  color: #fff;
+  border: 3px solid #fff;
+  padding: 25px 0 6px 30px;
+  margin-top: 90px;
+  margin-left: 27px;
+  width: 95%;
+}
